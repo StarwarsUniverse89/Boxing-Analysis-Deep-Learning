@@ -1,6 +1,6 @@
 # Boxing Analysis with Deep Learning 🥊
 
-This project uses deep learning to analyze and predict the movements of a famous boxer in the ring. The goal is to create detailed visualizations and gain strategic insights into the boxer's behavior.
+This project uses deep learning to analyze and predict the movements of a famous boxer in the ring. The goal is to create detailed visualizations and gain strategic insights into the boxer's behavior. This project is only a template that has potential higher quality processed frames from video footage is required or another source. The current source is youtube. 
 
 ## Key Features 💡
 
